@@ -62,10 +62,8 @@ dotnet run --project TaylorSwift
 
 **Features:**
 - **Discography Database**: Complete album, EP, and single catalog
-- **Song Search**: Filter by album, year, genre, lyrics
 - **Tour Timeline**: Eras Tour and historical tour information
 - **Awards Tracker**: Grammy wins and nominations
-- **Chart Analytics**: Billboard performance statistics
 
 ## 📝 License
 

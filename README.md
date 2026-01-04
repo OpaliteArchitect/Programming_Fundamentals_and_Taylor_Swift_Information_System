@@ -61,7 +61,7 @@ dotnet run --project TaylorSwift
 ## 💎 Taylor Swift Information System
 
 **Features:**
-- **Discography Database**: Complete album, EP, and single catalog
+- **Discography Database**: Extensive album, EP, and single catalog
 - **Tour Timeline**: Eras Tour and historical tour information
 - **Awards Tracker**: Grammy wins and nominations
 
